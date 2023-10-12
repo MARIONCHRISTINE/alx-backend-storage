@@ -1,4 +1,4 @@
--- SQL script that creates a table users following these 
+-- SQL script that creates a table users following these
 -- id, email, name
 CREATE TABLE IF NOT EXISTS users (
         id int NOT NULL PRIMARY KEY AUTO_INCREMENT,
